@@ -22,6 +22,7 @@ namespace API.Handlers
                     PhoneNumber = p.PhoneNumber,
                     Interests = p.PersonInterestLinks.Select(pi => new
                     {
+                      InterestID = pi.Interest.Id,
                       Title = pi.Interest.Title,
                       Description = pi.Interest.Description
                     }).ToList()
