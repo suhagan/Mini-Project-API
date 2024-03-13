@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{20C12814-E360-412C-B662-72AC61C7E795}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Migrations/ApplicationContextModelSnapshot.cs">
+    <Files>
+      <File FileName="API/Migrations/ApplicationContextModelSnapshot.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API">
+            <Node name="API">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="assets" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Handlers" expanded="True" />
+              <Node name="Migrations">
+                <Node name="ApplicationContextModelSnapshot.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
